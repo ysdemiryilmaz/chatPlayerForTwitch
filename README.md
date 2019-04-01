@@ -20,16 +20,18 @@ and use it :)
 
 PS: MAKE SURE THE MOUSE'S FOCUS IS ON THE GAME.
 
+
+
 ***** Commands in chat for play the game; *****
 
-  #IN CHAT        #IN GAME
-|    UP      |  up arrow key
-|   DOWN     | down arrow key
-|   RIGHT    | right arrow key
-|   LEFT     | left arrow key
-|    A       |      Z
-|    B       |      X
-|    L       |      A
-|    R       |      S
-|  SELECT    |      O
-|  START     |  enter key
+            #IN CHAT        #IN GAME
+          |    UP      |  up arrow key
+          |   DOWN     | down arrow key
+          |   RIGHT    | right arrow key
+          |   LEFT     | left arrow key
+          |    A       |      Z
+          |    B       |      X
+          |    L       |      A
+          |    R       |      S
+          |  SELECT    |      O
+          |  START     |  enter key
